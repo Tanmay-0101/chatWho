@@ -1,4 +1,4 @@
-# ChatWho 💬
+# ChatWho 
 
 A real-time chat application built with **Node.js, Express.js, MongoDB, and REST APIs**.  
 Features:
