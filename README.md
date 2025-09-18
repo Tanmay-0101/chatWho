@@ -1,6 +1,7 @@
-# chatWho
-chatWho is a web-based chat application prototype that simulates messaging functionality. The application displays a from/to interface, allowing users to see a conversation. It also allows users to viw the time when each message was entered.
+# ChatWho 💬
 
-**Technologies Used**
-* Frontend: HTML, CSS, Bootstrap, JavaScript
-* Backend: Node.js, Express.js, RESTful APIs, MongoDB
+A real-time chat application built with **Node.js, Express.js, MongoDB, and REST APIs**.  
+Features:
+- User authentication & message storage
+- RESTful API routes for handling chats
+- Timestamps and simple UI for messages
